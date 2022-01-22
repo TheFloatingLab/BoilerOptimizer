@@ -1,4 +1,4 @@
-This is the open source version of the BoilerOptimizer as described at https://www.thefloatinglab.world/en/boileroptimizer.html
+This is the open source version of the BoilerOptimizer as described at https://www.thefloatinglab.world/en/boilers.html
 
 This BoilerOptimizer is intended for controlling the Boiler on sailboats, features are:
 
@@ -17,7 +17,7 @@ This BoilerOptimizer is intended for controlling the Boiler on sailboats, featur
 - Fully configurable by an on screen menu
 - Switchable between degrees Celsius and Fahrenheit
 
-See for details and background https://www.thefloatinglab.world/en/boileroptimizer.html
+See for details and background https://www.thefloatinglab.world/en/boilers.html
 
 ## Notes about the Boiler Optimizer Schematic
 
